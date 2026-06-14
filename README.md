@@ -1,6 +1,6 @@
 # Limbique
 
-**Limbique** is the long-time online and gaming handle of **Jeroen van Langen**.
+**Limbique** is the long-time online and gaming handle of **J. van Langen**.
 
 The name has been used as a personal online identity since at least **2005**, including early Gmail usage, later YouTube activity, and other gaming-related accounts.
 
