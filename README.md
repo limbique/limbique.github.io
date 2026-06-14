@@ -10,7 +10,7 @@ It may contain small tools, prototypes, archives, experiments, or other projects
 
 ## Timeline
 
-* **2005** — `limbique@gmail.com` in active use
+* **2005** — `limbique (at) gmail.com` in active use
 * **2013** — YouTube handle `@limbique` active
 * **Present** — GitHub organization for the Limbique online identity
 
